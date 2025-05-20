@@ -4,12 +4,14 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hey+there+👋+I'm+Ankit+Dwivedi;Full+Stack+Web+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Ankit+Dwivedi;Full+Stack+Web+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </h1>
 
+
 <p align="center">
-  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400" />
 </p>
+
 
 ---
 
