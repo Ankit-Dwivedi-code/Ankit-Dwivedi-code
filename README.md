@@ -21,17 +21,13 @@
 - 🔭 I’m currently working on **MERN stack projects**
 - 🌱 Learning: **Next.js, TypeScript, and AI integrations**
 - 💬 Ask me about: **React, Node, Express, MongoDB**
-- 📫 Reach me at: **ankitdwivedi4284@gmail.com**
 - ⚡ Fun fact: *I can write clean code... even with coffee overdose ☕*
 
 ---
 
 ### 🤝 Connect with Me
 
-<p align="left" class="social-icons">
-  <a href="https://linkedin.com/in/ankit-dwivedi-code" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
-  </a>
+<p align="left" class="social-icons"> <a href="https://linkedin.com/in/ankit-dwivedi-code" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" /> </a> <a href="mailto:ankitdwivedi4284@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" /> </a>
 </p>
 
 ---
