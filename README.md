@@ -62,9 +62,9 @@
 
 ---
 
-### 🧠 Quote of the Day
+### 💬 Dev Vibes
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+> *“It worked yesterday, I swear.”*
 
 ---
 
