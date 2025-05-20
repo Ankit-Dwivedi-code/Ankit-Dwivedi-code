@@ -1,92 +1,75 @@
-<style>
-  /* Neon glow text effect */
-  @keyframes neon-flicker {
-    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
-      text-shadow:
-        0 0 2px #0ff,
-        0 0 10px #0ff,
-        0 0 20px #0ff,
-        0 0 30px #0ff,
-        0 0 40px #0ff;
-    }
-    20%, 24%, 55% {
-      text-shadow: none;
-    }
-  }
-  .neon-header {
-    font-size: 3rem;
-    color: #0ff;
-    text-align: center;
-    animation: neon-flicker 2s infinite;
-  }
-  .neon-subheader {
-    font-size: 1.5rem;
-    color: #cff;
-    text-align: center;
-    margin-bottom: 1em;
-  }
-  .social-icons a {
-    margin: 0 0.5em;
-    transition: transform 0.2s ease;
-  }
-  .social-icons a:hover {
-    transform: scale(1.2);
-    filter: drop-shadow(0 0 6px #0ff);
-  }
-  .tools-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-    gap: 1em;
-    justify-items: center;
-  }
-</style>
+<!-- Neon Banner -->
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Neon Banner" />
+</p>
 
-<h1 class="neon-header">Ankit Dwivedi</h1>
-<p class="neon-subheader">🌐 Passionate Full-Stack Developer | 🚀 Building Futuristic Experiences</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hey+there+👋+I'm+Ankit+Dwivedi;Full+Stack+Web+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Neon MasterHead" width="800"/>
+  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" width="400"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m working on **Next.js** & **Express.js** powered applications.  
-- 🌱 Currently deep-diving into **React 18**, **Tailwind CSS**, and **MongoDB**.  
-- 💬 Ask me about **Node.js**, **MERN**, **Serverless**, **GraphQL**.  
-- 📫 Reach me at [ankitmentors141@gmail.com](mailto:ankitmentors141@gmail.com).  
-- ⚡ Fun fact: I code in the neon hour—when the world sleeps!  
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <!-- GitHub Readme streak stats -->
-  <img src="https://github-readme-streak-stats-neon-psi.vercel.app/?user=ankit-dwivedi-code&theme=highcontrast" alt="🔥 GitHub Streak"/>
-  <!-- GitHub Readme overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-dwivedi-code&show_icons=true&theme=dark" alt="📈 GitHub Stats"/>
+  <img src="https://komarev.com/ghpvc/?username=ankit-dwivedi-code&label=Profile+views&color=00ffff&style=flat" alt="Profile Views" />
 </p>
 
----
+### 🧠 About Me
 
-### 🛠️ Languages & Tools
-<div class="tools-grid">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" title="React" alt="React"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" title="Next.js" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" title="Node.js" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" title="Express" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" title="MongoDB" alt="MongoDB"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" title="Tailwind CSS" alt="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" alt="Python"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" title="Git" alt="Git"/>
-</div>
+- 🔭 I’m currently working on **MERN stack projects**
+- 🌱 Learning: **Next.js, TypeScript, and AI integrations**
+- 💬 Ask me about: **React, Node, Express, MongoDB**
+- 📫 Reach me at: **ankitmentors141@gmail.com**
+- ⚡ Fun fact: *I can write clean code... even with coffee overdose ☕*
 
 ---
 
 ### 🤝 Connect with Me
-<div class="social-icons" align="center">
-  <a href="https://linkedin.com/in/ankit-dwivedi-code" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" alt="LinkedIn"/></a>
-  <a href="https://github.com/ankit-dwivedi-code" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" alt="GitHub"/></a>
-  <a href="https://twitter.com/ankit_dwivedi" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" alt="Twitter"/></a>
+
+<p align="left" class="social-icons">
+  <a href="https://linkedin.com/in/ankit-dwivedi-code" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,python,postman" />
 </div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-dwivedi-code&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-dwivedi-code&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-dwivedi-code&theme=neon-dark&hide_border=true" width="60%" />
+</p>
+
+---
+
+### 🧠 Quote of the Day
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+
+---
+
+### 💡 Let's Build Something Awesome!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
+</p>
