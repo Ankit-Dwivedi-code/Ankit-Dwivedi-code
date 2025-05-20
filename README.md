@@ -1,7 +1,8 @@
 <!-- Neon Banner -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Neon Banner" />
+  <img src="https://i.imgur.com/U4qKfYE.gif" alt="Neon Banner" />
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Ankit+Dwivedi;Full+Stack+Web+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
