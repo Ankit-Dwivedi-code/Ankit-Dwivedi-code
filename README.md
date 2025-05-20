@@ -71,5 +71,5 @@
 ### 💡 Let's Build Something Awesome!
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z4MTcyY3Rib3RpZjg2NTE3aG4xaWM4ZDJvOXVtejAyM2VtZDF0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ4aDFha3ppcnlldWs0Mmk0aHdzdnR5b2FnMHo4bzI3ZGdwdWFuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" width="200" />
 </p>
