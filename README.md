@@ -1,5 +1,4 @@
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Ankit+Dwivedi;Full+Stack+Web+Developer;Quick+Learner;Tech+Explorer" alt="Typing SVG" />
 </h1>
@@ -27,7 +26,7 @@
 
 ### 🤝 Connect with Me
 
-<p align="left" class="social-icons">
+<p align="center" class="social-icons">
   <a href="https://linkedin.com/in/ankit-dwivedi-code" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
