@@ -27,7 +27,14 @@
 
 ### 🤝 Connect with Me
 
-<p align="left" class="social-icons"> <a href="https://linkedin.com/in/ankit-dwivedi-code" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" /> </a> <a href="mailto:ankitdwivedi4284@gmail.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" alt="Gmail" width="40" /> </a> </p>
+<p align="left" class="social-icons">
+  <a href="https://linkedin.com/in/ankit-dwivedi-code" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="mailto:ankitdwivedi4284@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" alt="Gmail" width="40" />
+  </a>
+</p>
 
 ---
 
