@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **MERN stack projects**
 - 🌱 Learning: **Next.js, TypeScript, and AI integrations**
 - 💬 Ask me about: **React, Node, Express, MongoDB**
-- 📫 Reach me at: **ankitmentors141@gmail.com**
+- 📫 Reach me at: **ankitdwivedi4284@gmail.com**
 - ⚡ Fun fact: *I can write clean code... even with coffee overdose ☕*
 
 ---
